@@ -1,0 +1,9 @@
+pandas
+matplotlib
+seaborn
+scipy
+numpy
+wordcloud
+scikit-learn
+gensim
+pyspellchecker
