@@ -6,4 +6,8 @@ numpy
 wordcloud
 scikit-learn
 gensim
+safetensors
+spacy
+xgboost
+shap
 pyspellchecker
